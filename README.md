@@ -1,2 +1,3 @@
-# dockerized-ml
-Repo to explore some ideas about dockerized ML solutions
+# Dockerized ML
+
+Repo to exemplify dockerization of ML models. 
