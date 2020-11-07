@@ -1,0 +1,2 @@
+conda create --name docker-ml --clone base
+conda activate docker-ml
